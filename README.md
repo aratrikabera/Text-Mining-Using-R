@@ -1,2 +1,5 @@
 # Text-Mining-Using-R
-So I wanted to do something different-and voila! Text mining on R-studio! So here I have used a corpus of presidential speeches by notable presidential candidates and only performed text-mining on it and ended up building a word cloud.
+So I wanted to do something different-and voila! Text mining on R-studio! So here I have used a corpus of presidential speeches by notable presidential candidates and only performed text-mining on it and ended up building a word cloud to find the relevant text.
+
+After creating a corpus of presidential-candidate-speeches (Hillary, Obama, Trump, Romney), text transformation and cleaning was performed to find out the most relevant words to all four, and their frequency chart as well as word cloud was built as well.A lot of insight was gained into the features of these documents-the words that frequently associated with each of these candidates in the speeches, the relevance of most speeches were centered around which topics and so on. As this is only my second attempt at text mining, it may not have given the best results and some stopwords probably need to be removed and there still maybe some punctuation errors.
+My next aim is to use this to train a model that could predict the speaker as well do build something called a sentiment analysis. So stay tuned!
